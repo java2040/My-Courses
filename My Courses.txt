@@ -1,4 +1,4 @@
 
-- Software Development Program - Ort Kiryat Bialik College.
+- Practical Software Engineering - Ort Kiryat Bialik College.
 
 - Java Masterclass - by Tim Buchalka @ Udemy.com
